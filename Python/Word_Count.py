@@ -1,5 +1,5 @@
 # word_count.py
-
+# Counts the number of words in file
 def count_words(filename):
     try:
         with open(filename, "r") as file:
