@@ -3,7 +3,7 @@
 # Task 2: Basic Calculator
 # Performs addition, subtraction, multiplication, or division based on user input
 
-print("=== Basic Calculator ===")
+print("==== Basic Calculator ====")
 print("Choose operation: +, -, *, /")
 
 num1 = float(input("Enter first number: "))
