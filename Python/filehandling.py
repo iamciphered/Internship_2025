@@ -1,28 +1,28 @@
 #!/bin/env python3
-
+# For reading, writing, and appending files
 ## use 'open' for opening files(manually)
-##file_obj = open('cyberlab.txt', 'r')
-##cyberlab_content = file_obj.read()
-##print(cyberlab_content)
-##file_obj.close()
+file_obj = open('cyberlab.txt', 'r')
+cyberlab_content = file_obj.read()
+print(cyberlab_content)
+file_obj.close()
 
 ## using with statement
-##with open("cyberlab.txt", "r") as file:
-    ##content = file.read()
-    ##print(content)
+with open("cyberlab.txt", "r") as file:
+    content = file.read()
+    print(content)
 
 ## writing to a file
-##with open("cyberlab.txt", "w") as file:
-    ##file.write("Hello, Cyberlab!\n")
-    ##file.write("This is a new line.\n")
+with open("cyberlab.txt", "w") as file:
+    file.write("Hello, Cyberlab!\n")
+    file.write("This is a new line.\n")
 
 ##with open("cyberlab.txt", "r") as file:
-    ##new_content = file.read()
-    ##print(new_content)
+    new_content = file.read()
+    print(new_content)
 
 ## writing multiple lines
-##lines = ["We are learning about python file handling"]
-##print(lines)
+lines = ["We are learning about python file handling"]
+print(lines)
 
 ## writing to a new file
 with open("data.txt", "w") as file:
