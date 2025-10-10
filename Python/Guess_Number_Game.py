@@ -14,7 +14,7 @@ while True:
 
     # Check if input is outside the valid range
     if guess < 1 or guess > 50:
-        print("❌ Invalid input! Please enter a number between 1 and 50. Exiting game...")
+        print("Invalid input! Please enter a number between 1 and 50. Exiting game...")
         sys.exit()  # Immediately exits the program
     
     if guess < secret_number:
