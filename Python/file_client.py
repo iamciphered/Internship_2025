@@ -1,4 +1,4 @@
-# Checks host and port availability, displays file list and download a specific file
+# Displays file list and download a specific file
 
 import socket
 import sys
