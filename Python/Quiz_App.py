@@ -1,5 +1,5 @@
 # quiz_app.py
-
+# Ask interesting questions and provides options to choose
 questions = {
     "What is the capital of France? ": "paris",
     "What is 5 + 7? ": "12",
