@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Task 6: Login System Simulation
-# Simulates a simple username-password login system
+# Simulates a simple username-password login system.
 
 users = {
     "admin": "1234",
