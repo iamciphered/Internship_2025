@@ -8,7 +8,7 @@ print("=== Grade Assignment Program ===")
 # Ask the user to enter their numeric grade
 score = float(input("Enter your grade (0 - 100): "))
 
-# Check and assign the letter grade using conditionals
+# Checks and assigns the letter grade using conditionals
 if 90 <= score <= 100:
     grade = "A"
 elif 80 <= score < 90:
