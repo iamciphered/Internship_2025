@@ -1,3 +1,5 @@
+# Setup a connection using hostname and port
+
 import socket
 import sys
 import html2text
