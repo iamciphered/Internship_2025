@@ -1,6 +1,9 @@
+# Checks host and port availability, displays file list and download a specific file
+
 import socket
 import sys
 
+# This was tested on 10.10.10.215:9001 can be changed
 HOST = "10.10.10.215"
 PORT = 9001
 
