@@ -1,7 +1,7 @@
 #!/bin/env python3
 
 # Task 2: Basic Calculator
-# Performs addition, subtraction, multiplication, or division based on user input
+# Performs addition, subtraction, multiplication or division based on user input
 
 print("==== Basic Calculator ====")
 print("Choose operation: +, -, *, /")
