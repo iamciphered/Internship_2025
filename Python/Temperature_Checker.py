@@ -1,7 +1,7 @@
 #!/bin/env python3
 
 # Task 3: Temperature Converter
-# Converts between Celsius and Fahrenheit
+# Converts between Celsius and Fahrenheit.
 
 print("=== Temperature Converter ===")
 print("1. Celsius to Fahrenheit")
