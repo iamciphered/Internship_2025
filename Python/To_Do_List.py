@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Task 5: Simple To-Do List
-# Allows users to add, view, and remove tasks
+# Allows users to add, view, and remove tasks.
 
 tasks = []
 
